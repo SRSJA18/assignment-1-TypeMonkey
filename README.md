@@ -21,7 +21,7 @@ Need more of a challenge or want to do your own creative work? This task will le
 
 ## Problem 4
 
-Back to variables and math. The instructions are in a separate PDF document so I can use math symbols, you may want to pull it up in a second window or print it out.
+Back to variables and math. Part 2 of this assignment requires special math symbols so they are available in either a separate PDF document or a separate markdown document. 
 
 ## Problem 5
 

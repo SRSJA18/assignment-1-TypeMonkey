@@ -1,6 +1,5 @@
+"""Assignment 1: Problem 5 - User Input"""
 '''
-Problem 5: User Input
-
 In this exercise, we will ask the user for his/her first and last name and date of birth and print them out formatted.
 Recall that you can get input from the user using the command input("text").
 

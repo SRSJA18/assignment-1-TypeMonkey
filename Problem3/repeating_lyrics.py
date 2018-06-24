@@ -1,7 +1,6 @@
+"""Assignment 1: Problem 3 Extension: Repeating Lyrics"""
 '''
-Problem 3 Extension: Repeating Lyrics
-
-Many songs use repitition. We can use variables to manage that repetition when printing out the lyrics.
+Many songs use repetition. We can use variables to manage that repetition when printing out the lyrics.
 
 Here is the chorus for Rick Astley's 'Never Gonna Give You Up'
 

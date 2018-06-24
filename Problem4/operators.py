@@ -1,6 +1,5 @@
+"""Assignment 1: Problem 4: Operators"""
 '''
-Problem 4: Operators
-
 PART 1
 
 Understanding opearators

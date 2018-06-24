@@ -1,6 +1,5 @@
+""""Assignment 1: Problem 3 Variables"""
 '''
-Problem 3: Variables
-
 Recall that variables are containers for storing information. For example;
 
 Program Text:

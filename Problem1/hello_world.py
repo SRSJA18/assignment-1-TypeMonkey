@@ -1,6 +1,5 @@
+"""Assignment 1: Problem 1: Hello World"""
 '''
-Problem 1: Hello World
-
 Your first assignment is just like the program from Introduction to Python we did in class. We will recreate it
 here for practice on assignments.
 

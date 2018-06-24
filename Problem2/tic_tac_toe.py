@@ -1,6 +1,5 @@
+"""Assignment 1: Problem 2: Tic Tac Toe"""
 '''
-Problem 2: Tic Tac Toe
-
 Write a program using print that, when run, prints out a tic-tac-toe board.
 
 The purpose of this exercise is to make sure you understand how to

@@ -1,40 +1,48 @@
-# Problem 4: Operators
-#
-# PART 1
-# Notice the difference between float and integer math.
+'''
+Problem 4: Operators
 
-# 1. Print the result of 5 divided by 2
+PART 1
 
-# 2. Print the result of 5 divided by 2.0
+Understanding opearators
 
-# 3. Print the result of 5.0 divided by 2
+'''
 
-# 4. Print the result of 7 times the quantity of 1 over 2
+# TODO 1. Print the result of 5 plus 2
 
-# 5. Print the result of 7 times the quantity of 1 over 2.0
+# TODO 2. Print the result of 5 minus 2
 
-# 6. Print the result of 5 raised to the power of 2
+# TODO 3. Print the result of 5 times 2
 
-# 7. Print the result of 5.0 raised to the power of 2
+# TODO 4. Print the result of 5 divided by 2
 
-# 8. Print the result of 5 raised to the power of 2.0
+# TODO 5. Print the result of floor division or truncation division 5 // 2
 
+# TODO 6. Print the remainder of 5 / 2 using the modulo operator (%)
 
-# PART 2
-# Transcribe the equations from part2.pdf preserving the order of operations with parenthesis as needed. Save
-# each as a variable and print the variable.
+# TODO 7. Print the result of 5 raised to the power of 2
 
-# 9. Equation 1
+# TODO 8. Print the square root of 25
 
-# 10. Equation 2
+'''
+PART 2
 
-# 11. Equation 3
+Transcribe the equations from part2.pdf preserving the order of operations with parenthesis as needed. Save
+each as a variable and print the variable.
+'''
 
-# 12. Equation 4
+# TODO 9. Equation 1
 
-# 13. Equation 5
+# TODO 10. Equation 2
 
+# TODO 11. Equation 3
 
-# PART 3
-# Write two equations with the same operands and operators but that evaluate to different values. Store each in a
-# separate variable, then print the variables.
+# TODO 12. Equation 4
+
+# TODO 13. Equation 5
+
+'''
+PART 3
+
+Write two equations with the same operands and operators but that evaluate to different values. Store each in a
+separate variable, then print the variables.
+'''

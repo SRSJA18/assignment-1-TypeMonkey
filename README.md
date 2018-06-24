@@ -1,11 +1,11 @@
 # Assignment1
-First assignment for Introduction to Python at e3 Civic High
+First assignment for Introduction to Python
 
 This assignment will help you become familiar with the basics of writing programs in Python.
 
 ## Problem 1
 
-Hello, World! again. It should take about 1 minute to finish this one.
+Hello, World! again. 
 
 ## Problem 2
 
